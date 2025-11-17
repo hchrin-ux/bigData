@@ -47,12 +47,13 @@ Streamlit 웹 대시보드를 제작하여 지역별 교통사고 현황을 시�
 ---
 
 ## 5. 시연 동영상
-👉 https://youtu.be/x5SSQrJ4QHo 
+
+<a href="https://youtu.be/x5SSQrJ4QHo"><img src="youtube.png"></a>
 
 ---
 
 ## 6. 링크 설정
-- 데이터 출처 링크  
+- 데이터 출처 링크
   https://www.data.go.kr/
 
 ---
