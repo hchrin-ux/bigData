@@ -60,9 +60,7 @@ Streamlit 웹 대시보드를 제작하여 지역별 교통사고 현황을 시�
 ---
 
 ## 7. 팀원 소개
-- 차은우  
-(역할: Streamlit UI 개발, 데이터 시각화, README 작성 등)
-
+- 홍다은, 서지연, 황채린
 ---
 
 ## 8. 외부 URL
@@ -71,12 +69,3 @@ Streamlit 웹 대시보드를 제작하여 지역별 교통사고 현황을 시�
 - Plotly Express: https://plotly.com/python/plotly-express/
 
 ---
-
-## 9. 코드 Push
-GitHub 코드 저장소에 모든 소스코드를 push하여 공유한다.
-
-예:
-```bash
-git add .
-git commit -m "교통사고 분석 프로젝트 초기 버전"
-git push origin main
